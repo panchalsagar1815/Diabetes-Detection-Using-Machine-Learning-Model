@@ -1,5 +1,4 @@
-#
-**Project Title: Diabetes Detection Using Machine Learning**
+# **Project Title: Diabetes Detection Using Machine Learning**
 
 **Overview:**
 The "Diabetes Detection Using Machine Learning" project focuses on developing an accurate and reliable model to predict diabetes based on various health parameters. The dataset comprises features such as Pregnancy, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age, and Outcome (0 for No diabetes, 1 for diabetes). By leveraging data cleaning, preprocessing, visualization, and normalization techniques, the project aims to create a robust model that can assist in early diabetes detection.
