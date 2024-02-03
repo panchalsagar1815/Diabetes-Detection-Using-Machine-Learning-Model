@@ -1,4 +1,4 @@
-# Diabetes-Detection
+# Diabetes
 **Project Title: Diabetes Detection Using Machine Learning**
 
 **Overview:**
